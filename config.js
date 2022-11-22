@@ -51,7 +51,7 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  twitterLink: "https://twitter.com",
+  twitterLink: "https://twitter.com/FarzansStudio",
   discordLink: "https://discord.gg/dsjn8BFhBf",
   youtubeLink: "https://www.youtube.com/channel/UC4YnNU_j1i3KlgMTQ_cbYXA",
 };
