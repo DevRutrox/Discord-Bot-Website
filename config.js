@@ -38,8 +38,8 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
+  serverCount: 195, //-  - Your
+  memberCount: 0, //--   - Bot
   executedCommand: 0, //--  - Stats
   availableCommand: 0, //---   - Here
   //Do not change if you don't know about them
