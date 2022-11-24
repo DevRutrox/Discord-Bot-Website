@@ -5,16 +5,16 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "PritBot",
+  name: "CosmicBot",
   //BotName
   inviteLink:
-    "https://discord.com/api/oauth2/authorize?client_id=1043501821311864862&permissions=8&scope=bot",
+    "https://discord.com/oauth2/authorize?client_id=1044636559091171328&scope=applications.commands%20bot&permissions=8",
   //BotInvite Link
   Features: [
     {
       name: "Moderation",
       description:
-        "Moderation is the process of eliminating or lessening extremes.",
+        "Moderation Commands included.",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
@@ -38,10 +38,10 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 195, //-  - Your
+  serverCount: 2, //-  - Your
   memberCount: 0, //--   - Bot
   executedCommand: 0, //--  - Stats
-  availableCommand: 0, //---   - Here
+  availableCommand: 50, //---   - Here
   //Do not change if you don't know about them
   discordLogo: (
     <FaDiscord className="h-10 w-10 text-[#738adb] hover:scale-125 easeIn cursor-pointer" />
