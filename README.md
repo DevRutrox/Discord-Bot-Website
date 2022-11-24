@@ -20,7 +20,7 @@ Discord bot website made with help of Next js and Tailwind CSS.The cleanest disc
 
 ## Logo
 
-<img src="/public/logo.png" />
+<img src="https://media.discordapp.net/attachments/1039195926968946710/1045375300344762448/botlogo.png" />
 
 ## Built With
 
