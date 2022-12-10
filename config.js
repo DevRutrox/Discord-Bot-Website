@@ -5,16 +5,16 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "CosmicBot",
+  name: "PritBot",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=1044636559091171328&scope=applications.commands%20bot&permissions=8",
+    "https://discord.com/api/oauth2/authorize?client_id=1051082205239201902&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
       name: "Moderation",
       description:
-        "Moderation Commands included.",
+        "High Quality moderation avaible.",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
@@ -38,10 +38,10 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 2, //-  - Your
-  memberCount: 0, //--   - Bot
-  executedCommand: 0, //--  - Stats
-  availableCommand: 50, //---   - Here
+  serverCount: 60, //-  - Your
+  memberCount: 10000, //--   - Bot
+  executedCommand: 12, //--  - Stats
+  availableCommand: 20, //---   - Here
   //Do not change if you don't know about them
   discordLogo: (
     <FaDiscord className="h-10 w-10 text-[#738adb] hover:scale-125 easeIn cursor-pointer" />
@@ -52,7 +52,7 @@ const config = {
   //----------------------------------------------------------------
   // Your social handle links
   twitterLink: "https://twitter.com/FarzansStudio",
-  discordLink: "https://discord.gg/dsjn8BFhBf",
+  discordLink: "https://discord.gg/yPTwWW8mDY",
   youtubeLink: "https://www.youtube.com/channel/UC4YnNU_j1i3KlgMTQ_cbYXA",
 };
 
